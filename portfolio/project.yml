@@ -23,3 +23,5 @@ demo_url: ""
 presentation_url: ""
 
 blog_url: "blog/posts/object-extraction-thresholding/"
+
+blog_file: "portfolio/index.qmd"
