@@ -6,7 +6,8 @@ categories:
   - Computer Vision
   - Python
   - OpenCV
-execute: false
+execute:
+  enabled: false
 ---
 
 ## Project overview
