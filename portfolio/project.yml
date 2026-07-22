@@ -1,0 +1,25 @@
+title: "Object Extraction with Image Thresholding"
+
+slug: "object-extraction-thresholding"
+
+description: >
+  A computer vision project that uses image thresholding and
+  Otsu's method to separate foreground objects from image backgrounds.
+
+status: "published"
+
+order: 1
+
+technologies:
+  - Python
+  - OpenCV
+  - Computer Vision
+  - Jupyter Notebook
+
+repository_url: "https://github.com/mateocordobatoro/machine-learning-ii"
+
+demo_url: ""
+
+presentation_url: ""
+
+blog_url: "blog/posts/object-extraction-thresholding/"
