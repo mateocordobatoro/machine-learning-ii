@@ -3,7 +3,7 @@ title: "Object Extraction with Image Thresholding"
 slug: "object-extraction-thresholding"
 
 description: >
-  A computer vision project that uses image thresholding and
+  A computer vision project!!! that uses image thresholding and
   Otsu's method to separate foreground objects from image backgrounds.
 
 status: "published"
